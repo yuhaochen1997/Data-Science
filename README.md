@@ -10,9 +10,14 @@ There are some projects I have done at MIT as an exchange student. The original 
 
 ## 3. Criminal Network Analysis
 1. [Investigating a time-varying criminal network](Criminal_Network_Analysis/Criminal_Network_Analysis_1.ipynb): Investigating a time-varying criminal network that is repeatedly disturbed by police forces in CAVIAR project
-2. [Co-offending Network](Criminal_Network_Analysis/Criminal_Network_Analysis_2.ipynb): construct and analyze the co-offender network in Canada
+2. [Co-offending Network](Criminal_Network_Analysis/Criminal_Network_Analysis_2.ipynb): Constructing and analyzing the co-offender network in Canada
 
 ## 4. Time Series Analysis
-
+1. [Consumer price index data analysis](Time_Series/Time_Series_1.ipynb): The goal of this part is to analyze the PriceStats data from the MIT Billion Prices Project
+2. [The Mauna Loa CO2 concentration](Time_Series/Time_Series_2.ipynb): The goal of this part is to fit the data with some time series models and understand its variations
+      
+## 5. Cryptocurrency Market_Analysis Project
+1. [Project Report](Cryptocurrency_Market_Analysis_Project/6.419_Project_Cryptocurrency_Market_Analysis.pdf)
+2. [Project Poster](Cryptocurrency_Market_Analysis_Project/6.419_Project_Poster.pdf)
       
       

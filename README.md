@@ -4,7 +4,7 @@ There are some projects I have done at MIT as an exchange student. The original 
 See the details in Jupyter Notebook by clicking links.
 
 ## 1. Single-cell RNA-seq analysis
-* [Single-cell RNA-seq analysis](https://github.com/yuhaochen1997/Data-Science/blob/master/Single-cell%20RNA-seq%20analysis.ipynb)
+* [Single-cell RNA-seq analysis](https://github.com/yuhaochen1997/Data-Science/blob/master/Single-cell%20RNA-seq%20analysis.ipynb): Data dimension reduction and visualization
 
 
 ## 2. Ocean Flow Analysis

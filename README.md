@@ -9,5 +9,10 @@ There are some projects I have done at MIT as an exchange student. The original 
 3. [Path planning](Ocean_Flow/Ocean_Flow_3.ipynb): The goal of this part is route a boat through the ocean water  with minimizing the travel time
 
 ## 3. Criminal Network Analysis
+1. [Investigating a time-varying criminal network](Criminal_Network_Analysis/Criminal_Network_Analysis_1.ipynb): Investigating a time-varying criminal network that is repeatedly disturbed by police forces in CAVIAR project
+2. [Co-offending Network](Criminal_Network_Analysis/Criminal_Network_Analysis_2.ipynb): construct and analyze the co-offender network in Canada
 
+## 4. Time Series Analysis
+
+      
       

@@ -13,8 +13,8 @@ See the details in Jupyter Notebook by clicking links.
 * [Path planning](Ocean_Flow/Ocean_Flow_3.ipynb): The goal of this part is route a boat through the ocean water  with minimizing the travel time
 
 ## 3. Criminal Network Analysis
-1. [Investigating a time-varying criminal network](Criminal_Network_Analysis/Criminal_Network_Analysis_1.ipynb): Investigating a time-varying criminal network that is repeatedly disturbed by police forces in CAVIAR project
-2. [Co-offending Network](Criminal_Network_Analysis/Criminal_Network_Analysis_2.ipynb): Constructing and analyzing the co-offender network in Canada
+* [Investigating a time-varying criminal network](Criminal_Network_Analysis/Criminal_Network_Analysis_1.ipynb): Investigating a time-varying criminal network that is repeatedly disturbed by police forces in CAVIAR project
+* [Co-offending Network](Criminal_Network_Analysis/Criminal_Network_Analysis_2.ipynb): Constructing and analyzing the co-offender network in Canada
 
 ## 4. Time Series Analysis
 * [Consumer price index data analysis](Time_Series/Time_Series_1.ipynb): The goal of this part is to analyze the PriceStats data from the MIT Billion Prices Project

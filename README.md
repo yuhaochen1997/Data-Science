@@ -21,6 +21,7 @@ See the details in Jupyter Notebook by clicking links.
 * [The Mauna Loa CO2 concentration](https://nbviewer.jupyter.org/github/yuhaochen1997/Data-Science/blob/master/Time_Series/Time_Series_2.ipynb): The goal of this part is to fit the data with some time series models and understand its variations
       
 ## 5. Cryptocurrency Market Analysis Project
+![](https://nbviewer.jupyter.org/github/yuhaochen1997/Data-Science/blob/master/6.419_Project_Poster.jpg)
 This is the MIT 6.419 (Statistics, Computation and Applications) subject final team project.
 
 * [Project Report](https://nbviewer.jupyter.org/github/yuhaochen1997/Data-Science/blob/master/Cryptocurrency_Market_Analysis_Project/6.419_Project_Cryptocurrency_Market_Analysis.pdf)

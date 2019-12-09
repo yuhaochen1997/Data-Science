@@ -1,4 +1,4 @@
-# Data Science
+# [Data Science](https://yuhaochen1997.github.io/Data-Science/)
 There are some projects I have done at MIT as an exchange student. The original datasets are not available to the public. The purpose of this repo is to show my data science skills, such as importing and cleaning data, network analysis, time series analysis and data visualization. 
 
 See the details in Jupyter Notebook by clicking links.
